@@ -1,19 +1,23 @@
 # H1 Federico Ravizza
-## H2
-### H3
+# Hello World
 
-> blockquote 
+This is a **bold** and *italic* text example.
 
-My name is Federico Ravizza. I'm a student in .... now i'm following the web comunication course
-I still like Bennato.
-what i did. what im doing. a personal comme y
+## Features
+- Live preview
+- Supports **bold**, *italic*, and `code`
+- Links: [W3Schools](https://www.w3schools.com)
 
-Bennato link https://it.wikipedia.org/wiki/Edoardo_Bennato
+### Code Block
+```
+function hello() {
+  console.log('Hello!');
+}
+```
 
-![A mushroom-head robot drinking bubble tea](https://raw.githubusercontent.com/Codecademy/docs/main/media/codey.jpg)
+> This is a blockquote.
 
-
-put a picture of yourself or of a place you like
-
-[Edoardo Bennato su Wikipedia](https://it.wikipedia.org/wiki/Edoardo_Bennato)
-
+| Name | Age |
+|------|-----|
+| John | 30  |
+| Jane | 25  |
